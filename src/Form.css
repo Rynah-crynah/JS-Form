@@ -1,0 +1,110 @@
+
+.title {
+    color: #38A0A7;
+    font-size: 12px;
+    font-weight: 5px;
+}
+
+.signup{
+    color: #38A0A7;
+}
+
+.nav ul{
+    list-style-type: none;
+    display: flex;
+}
+.Component{
+    background-color: white;
+    padding: 45px ;
+    margin:  2.5% 5% ;
+   
+
+}
+.Component2{
+    margin-left: 4.7%;
+}
+.account{
+    margin-left: 65%;
+}
+.header{
+    margin-top: 4%;
+
+}
+.input{
+    margin-top: 2%;
+    color: #8B8B8B;
+}
+.forminputbox{
+   height: 30px;
+   width: 33%;
+ 
+  
+  
+}
+.user-emal{
+    margin-top: -2%;
+}
+.password{
+    margin-left: 4.7%;
+}
+.checkbox{
+    margin-top: 2%;
+    
+}
+.login{
+    margin-left: 3%;
+    margin-top: -2%;
+    font-size: 12px;
+
+}
+.reset{
+    margin-left: 7%;
+}
+.log-button{
+ 
+    width: 34%;
+    margin-top: 2%;
+    color: white;
+    background-color: #38A0A7;
+    padding: 1.5%;
+    border: none;
+    border-radius: 3px;
+  
+}
+.img{
+    margin-left: 40%;
+    margin-top: -45%;
+}
+.icons{
+    color: rgb(126, 126, 126);
+    display: flex;
+    justify-content: space-between;
+    width: 16%;
+    margin-left: 6%;
+    
+    
+ }
+.facebook{
+   border: 1px solid rgb(126, 126, 126);
+   border-radius: 50px;
+   width: 15px;
+   height: 15px;
+   padding: 5px;
+   margin-left: 10%;
+}
+.google{
+   border: 1px solid rgb(126, 126, 126);
+   border-radius: 50px;
+   width: 15px;
+   height: 15px;
+   padding: 5px;
+   margin-left: 10%;
+}
+.instagram{
+   border: 1px solid rgb(126, 126, 126);
+   border-radius: 50px;
+   width: 15px;
+   height: 15px;
+   padding: 5px;
+   margin-left: 10%;
+}
